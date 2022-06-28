@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "img": "/images/service-1.jpg",
+    "icon": "/images/icon-1.png",
+    "tagline": "Preventative Care",
+    "description": "Routine checkups, diet, parasite control, vaccinations and exercise together help your pet to live a full and happy life."
+  },
+  {
+    "id": 2,
+    "img": "/images/service-2.jpg",
+    "icon": "/images/icon-2.png",
+    "tagline": "Nutritional Counseling",
+    "description": "Some pets require special prescription food and all pets benefit from a balanced diet."
+  },
+  {
+    "id": 3,
+    "img": "/images/service-3.jpg",
+    "icon": "/images/icon-3.png",
+    "tagline": "Dental Care",
+    "description": "Dental hygiene is an important part of your pet’s health, because dental disease can be associated with serious health problems."
+  },
+  {
+    "id": 4,
+    "img": "/images/service-4.jpg",
+    "icon": "/images/icon-4.png",
+    "tagline": "Immediate Care",
+    "description": "We understand that our patients feel pain and discomfort under the same circumstances as people do."
+  },
+  {
+    "id": 5,
+    "img": "/images/service-5.jpg",
+    "icon": "/images/icon-5.png",
+    "tagline": "Diagnostic Centre",
+    "description": "Offers a wide array of reliable lab and diagnostic imaging services."
+  },
+  {
+    "id": 6,
+    "img": "/images/service-6.jpg",
+    "icon": "/images/icon-6.png",
+    "tagline": "Physical Therapy",
+    "description": "Reduce pain, restore function to the body and prevent future injury."
+  },
+  {
+    "id": 7,
+    "img": "/images/service-7.jpg",
+    "icon": "/images/icon-7.png",
+    "tagline": "Vaccination Care",
+    "description": "When a baby kitten or puppy is born, its immune system is not yet mature; the baby is wide open for infection."
+  },
+  {
+    "id": 8,
+    "img": "/images/service-8.jpg",
+    "icon": "/images/icon-8.png",
+    "tagline": "Wellness Care",
+    "description": "Our wellness programs include: comprehensive physical exam; internal and external parasite testings."
+  },
+  {
+    "id": 9,
+    "img": "/images/service-9.jpg",
+    "icon": "/images/icon-9.png",
+    "tagline": "Vet Surgery",
+    "description": "Effective and affordable treatment for non-life threatening illnesses."
+  }
+]

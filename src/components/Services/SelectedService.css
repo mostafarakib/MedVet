@@ -1,0 +1,10 @@
+.selected_service-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+}
+.selected_service-img {
+  width: 50%;
+  border-radius: 3px;
+}

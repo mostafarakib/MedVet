@@ -1,0 +1,53 @@
+.login-container {
+  height: 100vh;
+}
+
+.login_box {
+  background: #26a69a;
+  border-radius: 5px;
+  width: 40%;
+  color: #fff;
+}
+.btn-google {
+  border: 2px solid #ea4335;
+  background: #ea4335;
+  color: #fff;
+  padding: 5px 25px;
+  border-radius: 3px;
+  transition: all 0.2s;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.btn-google:hover {
+  background: #fff;
+  color: #ea4335;
+  border: 2px solid #26a69a;
+}
+
+.login_box-img {
+  display: block;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.login__form input {
+  background: #f2f2f2;
+  outline: none;
+  border: none;
+  padding: 0 15px;
+  width: 100%;
+  height: 40px;
+  border-radius: 3px;
+}
+.text-error {
+  color: #fdf758;
+}
+.text-link {
+  color: rgba(255, 255, 255, 0.658);
+  display: inline-block;
+  margin-left: 5px;
+  transition: all 0.2s;
+}
+.text-link:hover {
+  color: #fff;
+}

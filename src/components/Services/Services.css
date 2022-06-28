@@ -1,0 +1,21 @@
+.services-container {
+  background: #26a69a;
+  padding-top: 80px;
+}
+.section-intro--2 {
+  color: #fff;
+}
+.btn-third {
+  border: 2px solid #fff;
+  background: #26a69a;
+  color: #fff;
+  padding: 5px 25px;
+  border-radius: 3px;
+  transition: all 0.2s;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.btn-third:hover {
+  background: #fff;
+  color: #26a69a;
+}

@@ -1,0 +1,44 @@
+.header_content-container {
+  background: url("/public/images/banner.jpg");
+  height: 85vh;
+  background-size: cover;
+
+  text-align: left;
+  font-size: 3rem;
+  font-weight: 300;
+}
+.header_content-container--text {
+  padding: 13% 150px;
+}
+.header_content-container--text span {
+  font-weight: 700;
+  color: #26a69a;
+}
+.header_content-container--text p {
+  font-size: 1.2rem;
+}
+@media only screen and (max-width: 1150px) {
+  .header_content-container--text {
+    padding: 15% 30px;
+  }
+}
+
+@media only screen and (max-width: 682px) {
+  .header_content-container--text {
+    padding: 25% 20px;
+  }
+}
+
+@media only screen and (max-width: 525px) {
+  .header_content-container {
+    background-position: center;
+  }
+  .header_content-container--text {
+    padding: 40% 20px;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .header_content-container--text {
+    backdrop-filter: blur(2px);
+  }
+}

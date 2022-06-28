@@ -1,0 +1,15 @@
+.service_card {
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+.service-icon-container {
+  max-width: 60px;
+}
+.service-icon {
+  width: 100%;
+}
+.text-grey {
+  color: #b4b4b4;
+  font-size: 0.9rem;
+}
